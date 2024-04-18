@@ -1,0 +1,13 @@
+#Abouttheshow {
+    background-color: cyan;
+    border: 5px dotted green;
+    display: grid;
+    grid-template-columns: repeat(2 1fr);
+}
+
+img{
+   grid-template-columns: repeat(2 1fr);
+    row-gap: 2rem;
+}
+
+

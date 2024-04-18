@@ -1,0 +1,27 @@
+body{
+    font-family: lato sans-serif;
+    font-size: 16px;
+}
+
+*{
+    box-sizing: border-box;
+
+    
+
+}
+
+.container{
+    display: block;
+    width: 200px;
+    height:200px;
+    position: relative;
+    padding: 100px;
+    grid-template-columns: repeat(12fr 1fr 1fr);
+   
+}
+.card{
+    display: grid;
+    border: 2px solid red;
+    padding:50px;
+    position: relative;
+}

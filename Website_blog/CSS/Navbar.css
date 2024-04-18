@@ -1,0 +1,11 @@
+.container{
+    display:block;
+    unicode-bidi: isolate;
+    position: relative;
+}
+.menulist{
+    display:grid;
+    justify-content: center;
+    grid-template-columns: repeat(4 2fr);
+
+}

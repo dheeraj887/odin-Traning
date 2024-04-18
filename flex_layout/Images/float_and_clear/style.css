@@ -1,0 +1,29 @@
+
+.left{
+    float: left;
+    width:200px;
+    height: 200px;
+    margin:16px;
+    background-color: red;
+}
+.right{
+    float:right;
+    width:200px;
+    height:200px;
+    background-color:blue;
+    margin:16px;
+}
+.clear{
+    clear:both;
+    width: 200px;
+    height: 200px;
+    /* margin: 16px; */
+    background-color: green;
+
+}
+.no-float{
+    width:200px;
+    height:200px;
+    margin: 12px;
+    background-color: pink;
+}
